@@ -63,6 +63,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-github-actions</finalName>
 	</build>
 
 </project>
